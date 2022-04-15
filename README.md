@@ -39,7 +39,6 @@ Kotlin
 包名 kotlin_class_and_object
 
 #### 1.5.2 [继承与构造函数](..)
-
 包名 kotlin_extends_constructor
 
 #### 1.5.3 [接口](..)
