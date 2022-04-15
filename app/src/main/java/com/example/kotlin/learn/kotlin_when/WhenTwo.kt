@@ -1,9 +1,9 @@
-package com.example.kotlin
+package com.example.kotlin.learn.kotlin_when
 
 /**
  * Created on 2022/4/13
  * @author zsp
- * @desc 学习 Kotlin 六
+ * @desc when 条件语句二
  */
 fun main() {
     val numOne = 10

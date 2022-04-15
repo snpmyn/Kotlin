@@ -1,9 +1,9 @@
-package com.example.kotlin
+package com.example.kotlin.learn.kotlin_var
 
 /**
  * Created on 2022/4/13
  * @author zsp
- * @desc 学习 Kotlin 三
+ * @desc 变量
  */
 fun main() {
     var a = 10

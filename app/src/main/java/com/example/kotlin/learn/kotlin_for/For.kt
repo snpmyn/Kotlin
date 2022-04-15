@@ -1,9 +1,9 @@
-package com.example.kotlin
+package com.example.kotlin.learn.kotlin_for
 
 /**
  * Created on 2022/4/13
  * @author zsp
- * @desc 学习 Kotlin 七
+ * @desc 循环语句
  */
 fun main() {
     forOne()

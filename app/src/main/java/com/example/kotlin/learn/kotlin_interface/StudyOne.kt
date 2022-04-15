@@ -1,11 +1,11 @@
-package com.example.kotlin
+package com.example.kotlin.learn.kotlin_interface
 
 /**
  * Created on 2022/4/15
  * @author zsp
- * @desc 学习
+ * @desc 学习一
  */
-interface Study {
+interface StudyOne {
     fun readBooks()
     fun doHomework()
 }

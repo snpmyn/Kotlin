@@ -1,9 +1,9 @@
-package com.example.kotlin
+package com.example.kotlin.learn.kotlin_val
 
 /**
  * Created on 2022/4/13
  * @author zsp
- * @desc 学习 Kotlin 二
+ * @desc 常量
  */
 fun main() {
     val a = 10

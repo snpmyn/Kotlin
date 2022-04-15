@@ -1,4 +1,4 @@
-package com.example.kotlin
+package com.example.kotlin.learn.kotlin_interface
 
 /**
  * Created on 2022/4/15
@@ -8,6 +8,6 @@ package com.example.kotlin
 interface StudyTwo {
     fun readBooks()
     fun doHomework() {
-        println("do homework default implementation")
+        println("doHomework default implementation")
     }
 }

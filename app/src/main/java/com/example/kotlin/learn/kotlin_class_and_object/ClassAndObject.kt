@@ -1,9 +1,9 @@
-package com.example.kotlin
+package com.example.kotlin.learn.kotlin_class_and_object
 
 /**
  * Created on 2022/4/14
  * @author zsp
- * @desc 学习 Kotlin 八
+ * @desc 类与对象
  */
 fun main() {
     val p = Person()

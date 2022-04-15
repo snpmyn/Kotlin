@@ -1,9 +1,9 @@
-package com.example.kotlin
+package com.example.kotlin.learn.kotlin_extends_constructor
 
 /**
  * Created on 2022/4/14
  * @author zsp
- * @desc 学习 Kotlin 十
+ * @desc 继承与构造函数二
  */
 fun main() {
     val studentTwo = StudentTwo("xxxxxx", 18)
