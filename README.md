@@ -54,18 +54,33 @@ Kotlin
 
 #### 1.6.1 [集合的创建与遍历](..)
 
+包名 kotlin_list、kotlin_set、kotlin_map
+
 #### 1.6.2 [集合的函数式 API](..)
 
-#### 1.6.3 [Java 函数式 API 的适用](..)
+包名 kotlin_functional_api
+
+#### 1.6.3 [Java 函数式 API 的使用](..)
+
+包名 kotlin_functional_api_use
 
 ## 1.7 空指针检查
 
 #### 1.7.1 [可空类型系统](..)
 
+省略
+
 #### 1.7.2 [判空辅助工具](..)
+
+包名 kotlin_null_pointer_exception
 
 ## 1.8 Kotlin 中的小魔术
 
 #### 1.8.1 [字符串内嵌表达式](..)
 
+省略
+
 #### 1.8.2 [函数的参数默认值](..)
+
+包名 kotlin_function_param_default_value
+
